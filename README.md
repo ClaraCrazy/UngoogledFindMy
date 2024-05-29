@@ -39,9 +39,9 @@ ring | Will make the smartphone ring | Overlay |
 The app is able to automatically enabe location if it is off, but you need to grant a specific permission through adb.
 
 To grant the permission you need to do the following:
-1. Install LADB (https://play.google.com/store/apps/details?id=com.draco.ladb)
-2. In the Developer options of your phone enable Wireless debugging (Device Settings | Developer Options | Wireless Debugging)
-4. Connect LADB to your phone (You might have to use split-screen with both apps, since the wireless debugging setting will minimize the OTP window when you switch apps):
+1. Install [LADB](https://play.google.com/store/apps/details?id=com.draco.ladb)
+2. In the Android Developer Options enable Wireless debugging (Device Settings > Developer Options > Wireless Debugging)
+4. Connect LADB to your phone (You might have to use split-screen with both apps, since the settings app will minimize the OTP window otherwise):
     4.1 Click the Wireless Debugging option, this will bring Wireless Debugging Configuration
     4.2 Click Pair Device with pairing code, this will show a wifi Pairing Code with device ip & port to be used in LADB to pair
 5. Let LADB connect, wait for it to say "Success" and then run the following command:

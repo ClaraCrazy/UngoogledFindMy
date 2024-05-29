@@ -36,7 +36,7 @@
                 android:ems="10"
                 android:layout_marginStart="10dp"
                 android:layout_marginEnd="10dp"
-                android:text="LMD" />
+                android:text="sudo" />
 
             <View
                 android:layout_width="match_parent"

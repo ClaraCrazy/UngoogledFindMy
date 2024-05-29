@@ -20,7 +20,7 @@
     <string name="cancel">Annulla</string>
     <string name="admin_permission_request_description">L\'app richiede questo permesso per utilizzare l\'opzione \'lock\'</string>
     <string name="cannot_use_a_blank_password">Non è possibile usare una password vuota. Operazione annullata.</string>
-    <string name="empty_sms_command_not_allowed">Non è consentito usare un comando SMS vuoto. Ripristinato il valore di default (LMD)</string>
+    <string name="empty_sms_command_not_allowed">Non è consentito usare un comando SMS vuoto. Ripristinato il valore di default (sudo)</string>
     <string name="long_click_to_delete">Click prolungato per cancellare</string>
     <string name="contact_already_in_the_list">Contatto già presente nella lista</string>
     <string name="unable_to_retrieve_contact_error">Impossibile recuperare il contatto. Stai per caso usando un gestore contatti di terze parti? Se così fosse, prova a usare quello di default</string>

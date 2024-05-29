@@ -19,7 +19,7 @@
     <string name="cancel">Cancel</string>
     <string name="admin_permission_request_description">The app requires this permission to provide the \'lock\' feature.</string>
     <string name="cannot_use_a_blank_password">Cannot use a blank password. Aborted.</string>
-    <string name="empty_sms_command_not_allowed">Empty SMS command not allowed, reverted to default (LMD)</string>
+    <string name="empty_sms_command_not_allowed">Empty SMS command not allowed, reverted to default (sudo)</string>
     <string name="long_click_to_delete">Long click to delete</string>
     <string name="contact_already_in_the_list">Contact already in the list</string>
     <string name="unable_to_retrieve_contact_error">Unable to retrieve contact. Are you using a third-party contact manager app? If so, try with the default one.</string>

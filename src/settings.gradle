@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Locate my device"
+rootProject.name = "Ungoogled FindMy"
 include ':app'

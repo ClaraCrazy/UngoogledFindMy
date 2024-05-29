@@ -1,4 +1,4 @@
-package com.xfarrow.locatemydevice;
+package com.claracrazy.ungoogledfindmy;
 
 import android.annotation.SuppressLint;
 import android.content.DialogInterface;

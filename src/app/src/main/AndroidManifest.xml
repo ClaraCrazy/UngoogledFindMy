@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.xfarrow.locatemydevice" >
+    package="com.claracrazy.ungoogledfindmy" >
 
     <uses-permission android:name="android.permission.SEND_SMS" />
     <uses-permission android:name="android.permission.RECEIVE_SMS" />
@@ -26,7 +26,7 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
-        android:theme="@style/Theme.LocateMyDevice"
+        android:theme="@style/Theme.ungoogledfindmy"
         tools:targetApi="30" >
         <activity
             android:name=".PermissionsActivity"

@@ -1,4 +1,4 @@
-package com.xfarrow.locatemydevice;
+package com.claracrazy.ungoogledfindmy;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

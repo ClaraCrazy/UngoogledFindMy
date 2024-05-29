@@ -1,4 +1,4 @@
-package com.xfarrow.locatemydevice;
+package com.claracrazy.ungoogledfindmy;
 
 import static android.content.Context.DEVICE_POLICY_SERVICE;
 
@@ -63,7 +63,7 @@ public class SmsHandler {
         String providedPassword = "";
 
         // Deny communication to those not in the whitelist, if enabled.
-        // Deny communication if the message does not start with "LMD "
+        // Deny communication if the message does not start with "sudo "
         WhitelistDbHandler whitelistDbHandler = new WhitelistDbHandler(context);
         if(!message.startsWith(command + " ") || (settings.getBoolean(Settings.WHITELIST_ENABLED) && !whitelistDbHandler.isContactPresent(sender))){
             return;

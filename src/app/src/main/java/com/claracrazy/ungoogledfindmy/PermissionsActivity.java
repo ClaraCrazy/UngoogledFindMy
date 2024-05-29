@@ -1,4 +1,4 @@
-package com.xfarrow.locatemydevice;
+package com.claracrazy.ungoogledfindmy;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.app.ActivityCompat;

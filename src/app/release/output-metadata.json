@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.xfarrow.locatemydevice",
+  "applicationId": "com.claracrazy.ungoogledfindmy",
   "variantName": "release",
   "elements": [
     {
@@ -12,8 +12,8 @@
       "filters": [],
       "attributes": [],
       "versionCode": 6,
-      "versionName": "1.1-beta",
-      "outputFile": "app-release.apk"
+      "versionName": "1.0",
+      "outputFile": "UnggogledFindMy.apk"
     }
   ],
   "elementType": "File"

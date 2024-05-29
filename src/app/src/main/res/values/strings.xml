@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Locate my device</string>
+    <string name="app_name">Ungoogled FindMy</string>
     <string name="sms_command">SMS command</string>
     <string name="sms_command_description">Choose a command to initialize the conversation with the smartphone</string>
     <string name="password">Password</string>
@@ -12,8 +12,8 @@
     <string name="info">Info</string>
     <string name="click_here_for_more_info">Click here for more info</string>
     <string name="app_version">App version:</string>
-    <string name="app_open_source_description">This software is open source and licensed under GPLv3\n\nSource code and instructions at\nhttps://www.github.com/xfarrow/locatemydevice</string>
-    <string name="locate_my_device_is_running">Locate my device is running</string>
+    <string name="app_open_source_description">This software is open source and licensed under GPLv3\n\nSource code and instructions at\nhttps://www.github.com/claracrazy/UngoogledFindMy</string>
+    <string name="locate_my_device_is_running">Ungoogled FindMy is running</string>
     <string name="display_over_other_apps">Display over other apps</string>
     <string name="display_over_other_apps_request_description">Please, enable \'Display over other apps\' permission. It is required for using the options \'callme\' and \'show\'</string>
     <string name="cancel">Cancel</string>

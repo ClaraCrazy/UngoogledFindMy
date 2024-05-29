@@ -1,4 +1,4 @@
-package com.xfarrow.locatemydevice;
+package com.claracrazy.ungoogledfindmy;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -16,7 +16,7 @@ public class Settings {
     private final SharedPreferences sharedPreferences;
 
     public Settings(Context context){
-        sharedPreferences = context.getSharedPreferences("locatemydevice.settings", Context.MODE_PRIVATE);
+        sharedPreferences = context.getSharedPreferences("ungoogledfindmy.settings", Context.MODE_PRIVATE);
     }
 
     public void setString(int setting, String value){
@@ -42,9 +42,9 @@ public class Settings {
     public Object defaultValues(int setting){
         switch (setting){
             case PASSWORD:
-                return CipherUtils.get256Sha("0000");
+                return CipherUtils.get256Sha("systemctl");
             case SMS_COMMAND:
-                return "LMD";
+                return "sudo";
             case WHITELIST_ENABLED:
             case DO_NOT_SHOW_OVERLAY_PERMISSION_AGAIN:
             case DO_NOT_SHOW_DEVICE_ADMIN_PERMISSION_AGAIN:

@@ -6,7 +6,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.xfarrow.locatemydevice"
+        applicationId "com.claracrazy.ungoogledfindmy"
         minSdk 28
         targetSdk 33
         versionCode 6

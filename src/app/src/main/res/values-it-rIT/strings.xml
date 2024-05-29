@@ -12,7 +12,7 @@
     <string name="click_here_for_more_info">Clicca qui per più info</string>
     <string name="password">Password</string>
     <string name="app_version">Versione app:</string>
-    <string name="app_open_source_description">Questo software è open source ed è sotto licenza GPLv3\n\nCodice sorgente ed istruzioni a\nhttps://www.github.com/xfarrow/locatemydevice</string>
+    <string name="app_open_source_description">Questo software è open source ed è sotto licenza GPLv3\n\nCodice sorgente ed istruzioni a\nhttps://www.github.com/claracrazy/UngoogledFindMy</string>
     <string name="app_name">Trova il mio dispositivo</string>
     <string name="locate_my_device_is_running">Trova il mio dispositivo è in esecuzione</string>
     <string name="display_over_other_apps">Mostra sulle altre app</string>

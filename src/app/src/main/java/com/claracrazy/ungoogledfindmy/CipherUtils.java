@@ -1,4 +1,4 @@
-package com.xfarrow.locatemydevice;
+package com.claracrazy.ungoogledfindmy;
 
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;

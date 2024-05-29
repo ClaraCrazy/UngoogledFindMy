@@ -65,7 +65,7 @@ GitHub's releases section is the only place where I am uploading apks.
 Some antivirus falsely report it's a malware due to the app's extensive demanding permissions.
 
 ## More info
-There is already Google Find My Device, but I wanted to develop a free and open source alternative (even tho it is suggested to keep Google's, unless you do not have Play Services and/or wanting to go full-in about privacy). There is already a good FOSS alternative, [Find My Device](https://gitlab.com/Nulide/findmydevice) (from which I took inspiration from), but wanted to change it a little. Xfarrow did [fork](https://www.github.com/xfarrow/FindMyDevice) it, but eventually they decided to create their own project, which in turn lead to this fork.
+There is already Google Find My Device, but I wanted a free and open source alternative (even tho it is suggested to keep Google's, unless you do not have Play Services and/or wanting to go full-in about privacy). There is already a good FOSS alternative, [Find My Device](https://gitlab.com/Nulide/findmydevice) (from which I took inspiration from), but wanted to change it a little. Xfarrow did [fork](https://www.github.com/xfarrow/FindMyDevice) it, and eventually they decided to create [their own project](https://github.com/xfarrow/locatemydevice), which in turn lead to this fork.
 
 **Other:**
 * This software is licensed under the GNU General Public License v3.0. Click [here](https://github.com/claracrazy/UngoogledFindMy/blob/main/LICENSE) for more information;

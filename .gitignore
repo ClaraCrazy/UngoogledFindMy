@@ -2,3 +2,4 @@
 androidkey.jks
 src/.idea/deploymentTargetDropDown.xml
 .idea/
+src/app/release/

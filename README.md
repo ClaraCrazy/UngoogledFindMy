@@ -6,7 +6,7 @@ This app helps to locate a lost smartphone through the use of conventional SMS.
 ## Screenshots
 | Homescreen | SMS Chat
 |:-:|:-:|
-| <img src="/images/home.png" alt="Homescreen" width="190" height="390.641"> | <img src="/images/sms.png" width="190" height="390.641"> |
+| <img src="/images/home.png" alt="Homescreen" width="190" height="390.641"> | <img src="/images/sms.png" alt="Preview" width="190" height="390.641"> |
 
 ## Usage
 Send an SMS to the device you want to locate in order to retrieve information about it.

@@ -36,7 +36,7 @@ ring | Will make the smartphone ring | Overlay |
 
 ### Auto enabling location
 
-The app is able to automatically enabe location if it is off, but you need to grant a specific permission through adb.
+The app is able to automatically enable location if it is off, but you need to grant a specific permission through adb.
 
 To grant the permission you need to do the following:
 1. Install [LADB](https://play.google.com/store/apps/details?id=com.draco.ladb)

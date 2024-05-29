@@ -42,8 +42,8 @@ To grant the permission you need to do the following:
 1. Install [LADB](https://play.google.com/store/apps/details?id=com.draco.ladb)
 2. In the Android Developer Options enable Wireless debugging (Device Settings > Developer Options > Wireless Debugging)
 3. Connect LADB to your phone (You might have to use split-screen with both apps, since the settings app will minimize the OTP window otherwise):
-    3.1 Click the Wireless Debugging option, this will bring Wireless Debugging Configuration
-    3.2 Click Pair Device with pairing code, this will show a wifi Pairing Code with device ip & port to be used in LADB to pair
+  - Click the Wireless Debugging option, this will bring Wireless Debugging Configuration
+  - Click Pair Device with pairing code, this will show a wifi Pairing Code with device ip & port to be used in LADB to pair
 5. Let LADB connect, wait for it to say "Success" and then run the following command:
 
 ```

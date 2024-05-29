@@ -24,7 +24,7 @@ Send an SMS to the device you want to locate in order to retrieve information ab
 Option | Explaination | Required permission
 -------|:------------|--------------------|
 locate | Will return the most accurate set of coordinates possible and a link to them pinpointed to OpenStreetMap | Location
-cellinfo | Will return a set of uniquely identifiable information about cell towers near the phone. You can then put this information on [OpenCellId][1] to individuate the smartphone's approximate location | Location
+cellinfo | Will return a set of uniquely identifiable information about cell towers near the phone. You can then put this information on [OpenCellId](https://opencellid.org/) to individuate the smartphone's approximate location | Location
 battery | Will return battery infos | None |
 lock | Will  lock down the smartphone | Device Administrator |
 show "message" | Will show a message on the screen, even when it's locked. | Overlay |
